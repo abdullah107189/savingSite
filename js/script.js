@@ -1,7 +1,7 @@
 const saveButton = document.getElementById('saveButton')
 saveButton.setAttribute('disabled', true)
 saveButton.style.backgroundColor = '#D3D3D3';
-const x = 50;
+const x = 10;
 console.log(x);
 
 const calculateExpense = () => {
