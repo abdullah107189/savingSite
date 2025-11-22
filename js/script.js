@@ -1,8 +1,8 @@
 const saveButton = document.getElementById('saveButton')
 saveButton.setAttribute('disabled', true)
 saveButton.style.backgroundColor = '#D3D3D3';
-const x = 50;
-console.log(x);
+const a = 50;
+console.log(a);
 
 const calculateExpense = () => {
   const income = document.querySelector("#income").value;
